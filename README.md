@@ -1,21 +1,24 @@
 easy-array-tools
 ===========================
 
-###########环境依赖
+## 环境依赖
 node 5.x ~
+
 npm 4.x ~
 
-###########部署步骤
- npm install  easy-array-tools
+## 部署步骤
+
 
  `npm install easy-array-tools`
+
  `import easyArrayTools from 'easy-array-tools'`
+
  `easyArrayTools.arrMax([192,2,432,2,43,21,23]) // --> 432`
 
 
 
 
-###########目录结构描述
+## 目录结构描述
 ├── Readme.md                   // help
 ├── index                       // 应用
 ├── src                     
@@ -28,7 +31,7 @@ npm 4.x ~
 
 
 
-###########V1.0.0 版本内容更新
+## V1.0.2 版本内容更新
 1. 数组最大值  arrMax(arr)
 2. 数组最小值  arrMin(arr)
 3. 数组拆分   chunkArr(arr,size)
