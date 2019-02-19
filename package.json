@@ -1,7 +1,7 @@
 {
   "name": "easy-array-tools",
   "version": "1.0.0",
-  "description": "a package about Array\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D easy to use Array!",
+  "description": "a package about easy to use Array!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chenmychou"
+    "url": "git@github.com:chenmychou/easy-array-tools.git"
   },
   "author": "chenmychou",
   "license": "MIT",
