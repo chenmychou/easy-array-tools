@@ -1,0 +1,26 @@
+{
+  "name": "easy-array-tools",
+  "version": "1.0.0",
+  "description": "a package about Array\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D easy to use Array!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cleanLib": "./node_modules/.bin/rimraf lib",
+    "bableBuild": "./node_modules/.bin/babel src --out-dir lib",
+    "prepublish": "npm run cleanLib && npm run bableBuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chenmychou"
+  },
+  "author": "chenmychou",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "rimraf": "^2.6.3"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
