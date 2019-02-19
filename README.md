@@ -19,14 +19,14 @@ npm 4.x ~
 
 
 ## 目录结构描述
-├── Readme.md                   // help
-├── index                       // 应用
+├── Readme.md                   // help   
+├── index                       // 应用   
 ├── src                     
-│   └── easy-array.js        // core code
-├── node_modules
-├── package.json
+│   └── easy-array.js        // core code   
+├── node_modules   
+├── package.json   
 ├── lib                      
-│   └── easy-array.js       // babel转译成es5的代码
+│   └── easy-array.js       // babel转译成es5的代码   
 └── gitignore
 
 
