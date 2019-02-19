@@ -1,6 +1,6 @@
 {
   "name": "easy-array-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "a package about easy to use Array!",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,14 @@
     "type": "git",
     "url": "git@github.com:chenmychou/easy-array-tools.git"
   },
-  "keywords":["array", "sort", "Max", "数组方法", "npm", "数组拆分"],
+  "keywords": [
+    "array",
+    "sort",
+    "Max",
+    "数组方法",
+    "npm",
+    "数组拆分"
+  ],
   "author": "chenmychou",
   "license": "MIT",
   "devDependencies": {
